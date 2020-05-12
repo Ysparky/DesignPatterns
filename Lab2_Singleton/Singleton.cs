@@ -8,7 +8,7 @@ namespace Lab2_Singleton
 {
     public class Singleton
     {
-        private Singleton instance;
+        private static Singleton instance;
         private int counter = 0;
         public Singleton(int counter)
         {
