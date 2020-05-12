@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2_Singleton", "Lab2_Sing
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3_Iterator", "Lab3_Iterator\Lab3_Iterator.csproj", "{FA86957F-052B-46C7-8B66-D1E77226129F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1_Bridge", "Lab1_Bridge\Lab1_Bridge.csproj", "{0528A9D3-70AE-43D4-924F-DD30E47BFE39}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{FA86957F-052B-46C7-8B66-D1E77226129F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA86957F-052B-46C7-8B66-D1E77226129F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA86957F-052B-46C7-8B66-D1E77226129F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0528A9D3-70AE-43D4-924F-DD30E47BFE39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0528A9D3-70AE-43D4-924F-DD30E47BFE39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0528A9D3-70AE-43D4-924F-DD30E47BFE39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0528A9D3-70AE-43D4-924F-DD30E47BFE39}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
