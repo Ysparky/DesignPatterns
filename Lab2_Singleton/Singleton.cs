@@ -6,33 +6,32 @@ using System.Threading.Tasks;
 
 namespace Lab2_Singleton
 {
-    public class Singleton
+    class Singleton
     {
         private static Singleton instance;
-        private int counter = 0;
-        public Singleton(int counter)
-        {
-            this.counter = counter;
-        }
-        public Singleton() { }
+        private static int counter = 0;
 
-        public string addCounter()
-        {
-            counter += 1;
-            return counter.ToString();
-        }
-        public string subtractCounter()
-        {
-            counter -= 1;
-            return counter.ToString();
-        }
-        public Singleton Instance()
+        private Singleton() { }
+        
+        public static Singleton getInstance()
         {
             if (instance == null)
             {
                 instance = new Singleton();
             }
             return instance;
+        }
+
+        public string addCounter()
+        {
+            counter += 1;
+            return counter.ToString();
+        }
+
+        public string subtractCounter()
+        {
+            counter -= 1;
+            return counter.ToString();
         }
     }
 }

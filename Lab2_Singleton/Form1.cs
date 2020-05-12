@@ -12,11 +12,10 @@ namespace Lab2_Singleton
 {
     public partial class Form1 : Form
     {
-        Singleton instance;
+        Singleton instance = Singleton.getInstance();
         public Form1()
         {
             InitializeComponent();
-            instance = new Singleton();
         }
 
         private void btnAbrir_Click(object sender, EventArgs e)
