@@ -33,6 +33,7 @@
             this.btnAzul = new System.Windows.Forms.Button();
             this.btnRojo = new System.Windows.Forms.Button();
             this.btnUndo = new System.Windows.Forms.Button();
+            this.lblColor = new System.Windows.Forms.Label();
             this.gbColores.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -80,7 +81,7 @@
             // 
             // btnUndo
             // 
-            this.btnUndo.Location = new System.Drawing.Point(242, 305);
+            this.btnUndo.Location = new System.Drawing.Point(255, 305);
             this.btnUndo.Name = "btnUndo";
             this.btnUndo.Size = new System.Drawing.Size(75, 23);
             this.btnUndo.TabIndex = 1;
@@ -88,11 +89,22 @@
             this.btnUndo.UseVisualStyleBackColor = true;
             this.btnUndo.Click += new System.EventHandler(this.btnUndo_Click);
             // 
+            // lblColor
+            // 
+            this.lblColor.AutoSize = true;
+            this.lblColor.Location = new System.Drawing.Point(278, 58);
+            this.lblColor.Name = "lblColor";
+            this.lblColor.Size = new System.Drawing.Size(31, 13);
+            this.lblColor.TabIndex = 2;
+            this.lblColor.Text = "Color";
+            this.lblColor.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.lblColor);
             this.Controls.Add(this.btnUndo);
             this.Controls.Add(this.gbColores);
             this.KeyPreview = true;
@@ -101,6 +113,7 @@
             this.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyUp);
             this.gbColores.ResumeLayout(false);
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -111,6 +124,7 @@
         private System.Windows.Forms.Button btnAzul;
         private System.Windows.Forms.Button btnRojo;
         private System.Windows.Forms.Button btnUndo;
+        private System.Windows.Forms.Label lblColor;
     }
 }
 
