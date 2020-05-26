@@ -16,7 +16,7 @@ namespace Lab3_Iterator
         public Form1()
         {
             InitializeComponent();
-            iterator = new Iterator(MiListBox);
+            
         }
 
         private void txtTop_Click(object sender, EventArgs e)
@@ -42,6 +42,21 @@ namespace Lab3_Iterator
         private void txtCentral_Click(object sender, EventArgs e)
         {
             txtResult.Text = iterator.getCentral();
+        }
+
+        private void radioButton1_CheckedChanged(object sender, EventArgs e)
+        {
+            iterator = new Iterator(MiListBox,1);
+        }
+
+        private void radioButton2_CheckedChanged(object sender, EventArgs e)
+        {
+            iterator = new Iterator(MiListBox, 2);
+        }
+
+        private void radioButton3_CheckedChanged(object sender, EventArgs e)
+        {
+            iterator = new Iterator(MiListBox, 3);
         }
     }
 }
