@@ -1,0 +1,10 @@
+C:\Users\Sparky\Desktop\7mo Ciclo\Arquitectura y Evolución de Software\DesignPatterns\Lab5_Decorator2\bin\Debug\Lab5_Decorator2.exe.config
+C:\Users\Sparky\Desktop\7mo Ciclo\Arquitectura y Evolución de Software\DesignPatterns\Lab5_Decorator2\bin\Debug\Lab5_Decorator2.exe
+C:\Users\Sparky\Desktop\7mo Ciclo\Arquitectura y Evolución de Software\DesignPatterns\Lab5_Decorator2\bin\Debug\Lab5_Decorator2.pdb
+C:\Users\Sparky\Desktop\7mo Ciclo\Arquitectura y Evolución de Software\DesignPatterns\Lab5_Decorator2\obj\Debug\Lab5_Decorator2.csprojAssemblyReference.cache
+C:\Users\Sparky\Desktop\7mo Ciclo\Arquitectura y Evolución de Software\DesignPatterns\Lab5_Decorator2\obj\Debug\Lab5_Decorator2.Form1.resources
+C:\Users\Sparky\Desktop\7mo Ciclo\Arquitectura y Evolución de Software\DesignPatterns\Lab5_Decorator2\obj\Debug\Lab5_Decorator2.Properties.Resources.resources
+C:\Users\Sparky\Desktop\7mo Ciclo\Arquitectura y Evolución de Software\DesignPatterns\Lab5_Decorator2\obj\Debug\Lab5_Decorator2.csproj.GenerateResource.cache
+C:\Users\Sparky\Desktop\7mo Ciclo\Arquitectura y Evolución de Software\DesignPatterns\Lab5_Decorator2\obj\Debug\Lab5_Decorator2.csproj.CoreCompileInputs.cache
+C:\Users\Sparky\Desktop\7mo Ciclo\Arquitectura y Evolución de Software\DesignPatterns\Lab5_Decorator2\obj\Debug\Lab5_Decorator2.exe
+C:\Users\Sparky\Desktop\7mo Ciclo\Arquitectura y Evolución de Software\DesignPatterns\Lab5_Decorator2\obj\Debug\Lab5_Decorator2.pdb
