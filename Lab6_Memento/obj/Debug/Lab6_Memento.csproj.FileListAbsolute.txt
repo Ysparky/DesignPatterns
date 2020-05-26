@@ -1,0 +1,10 @@
+C:\Users\Sparky\Desktop\7mo Ciclo\Arquitectura y Evolución de Software\DesignPatterns\Lab6_Memento\bin\Debug\Lab6_Memento.exe.config
+C:\Users\Sparky\Desktop\7mo Ciclo\Arquitectura y Evolución de Software\DesignPatterns\Lab6_Memento\bin\Debug\Lab6_Memento.exe
+C:\Users\Sparky\Desktop\7mo Ciclo\Arquitectura y Evolución de Software\DesignPatterns\Lab6_Memento\bin\Debug\Lab6_Memento.pdb
+C:\Users\Sparky\Desktop\7mo Ciclo\Arquitectura y Evolución de Software\DesignPatterns\Lab6_Memento\obj\Debug\Lab6_Memento.csprojAssemblyReference.cache
+C:\Users\Sparky\Desktop\7mo Ciclo\Arquitectura y Evolución de Software\DesignPatterns\Lab6_Memento\obj\Debug\Lab6_Memento.Form1.resources
+C:\Users\Sparky\Desktop\7mo Ciclo\Arquitectura y Evolución de Software\DesignPatterns\Lab6_Memento\obj\Debug\Lab6_Memento.Properties.Resources.resources
+C:\Users\Sparky\Desktop\7mo Ciclo\Arquitectura y Evolución de Software\DesignPatterns\Lab6_Memento\obj\Debug\Lab6_Memento.csproj.GenerateResource.cache
+C:\Users\Sparky\Desktop\7mo Ciclo\Arquitectura y Evolución de Software\DesignPatterns\Lab6_Memento\obj\Debug\Lab6_Memento.csproj.CoreCompileInputs.cache
+C:\Users\Sparky\Desktop\7mo Ciclo\Arquitectura y Evolución de Software\DesignPatterns\Lab6_Memento\obj\Debug\Lab6_Memento.exe
+C:\Users\Sparky\Desktop\7mo Ciclo\Arquitectura y Evolución de Software\DesignPatterns\Lab6_Memento\obj\Debug\Lab6_Memento.pdb
